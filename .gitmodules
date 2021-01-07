@@ -1,0 +1,3 @@
+[submodule "Chroma_Pi"]
+	path = Chroma_Pi
+	url = git@github.com:Ziang95/Chroma_Pi.git

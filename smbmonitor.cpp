@@ -9,9 +9,9 @@
 #include <unistd.h>
 #include <bits/stdc++.h> 
 
-#include "headers/chroma.h"
-#include "headers/libled.h"
-#include "headers/PCA9685.h"
+#include "Chroma_Pi/headers/chroma.h"
+#include "Chroma_Pi/headers/libled.h"
+#include "Chroma_Pi/headers/PCA9685.h"
 
 using namespace std;
 
