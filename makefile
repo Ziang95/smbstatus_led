@@ -10,7 +10,7 @@ build/libchroma.so : build
 	git submodule foreach git fetch
 	git submodule foreach git pull
 	make -C Chroma_Pi
-	cp Chroma_Pi/build/libchroma.so build/
+	mv Chroma_Pi/build/libchroma.so build/
 
 build/dbg:target=dbg
 
